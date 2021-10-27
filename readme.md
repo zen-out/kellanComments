@@ -17,8 +17,7 @@ The real sign of love is not the ability to read another's mind - rather, it pro
 
 ### Grandpa
 
-It will take a lot of patience, empathy and humour. Also, try to assume good intentions.
-{reveal-text}
+It will take a lot of patience, empathy and humour. Also, try to assume good intentions. {reveal-text}
 
 ### Uncle Peter
 
