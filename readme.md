@@ -3,6 +3,7 @@
 ### Mom
 
 Love is a skill to be learnt, rather than just an emotion to be felt.
+{reveal-text}
 
 ### Dad
 
