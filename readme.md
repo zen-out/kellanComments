@@ -1,11 +1,11 @@
 ## OfficialComments
 
-### Mom {reveal-text}
+### Mom {reveal-text} ###
 
 Love is a skill to be learnt, rather than just an emotion to be felt.
 {reveal-text}
 
-### Dad {reveal-text}
+### Dad {reveal-text} ###
 
 Maturity is founded, really, on recognizing one's craziness - if we are not regularly and deeply embarrassed about who we are, it is because we have a dangerous capacity for selective memory.
 {reveal-text}
