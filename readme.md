@@ -26,5 +26,5 @@ A loyal marriage ought at all times to retain within it an awareness of the imme
 
 ### Lesley 
 
-It’s in the end the fervent Romantics who should be especially careful of ending up in mediocre relationships: relationships best suit the kind of people who don’t expect too much from them.
+Low expectations are key
 {reveal-text}
